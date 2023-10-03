@@ -24,8 +24,6 @@ Send transactional E-Mail with [Resend](https://resend.com)
 | [Github sponsor](https://github.com/sponsors/bnomei) | [Patreon](https://patreon.com/bnomei) | [Buy Me a Coffee](https://buymeacoff.ee/bnomei) | [Paypal dontation](https://www.paypal.me/bnomei/15) | [Hire me](mailto:b@bnomei.com?subject=Kirby) |
 
 ## Sending via SMTP
-https://postmarkapp.com/developer/user-guide/send-email-with-smtp
-
 ```php
 <?php
 
