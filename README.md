@@ -10,8 +10,6 @@
 Send transactional E-Mail with [Resend](https://resend.com)
 
 ## Sending via SMTP
-https://postmarkapp.com/developer/user-guide/send-email-with-smtp
-
 ```php
 <?php
 
